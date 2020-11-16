@@ -131,7 +131,7 @@ namespace myfirstapp
             {
                 fall();
                 drawNewPosition();
-                deleteOldPosition();
+                
             }
             else
             {
